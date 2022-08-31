@@ -1,0 +1,10 @@
+
+#template {
+    position: absolute;
+    background-color: #E1FFEE;
+    padding: 20px;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
