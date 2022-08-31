@@ -5,7 +5,7 @@
         [
             "id" => "1",
             "soal" => "Siapakah Presiden pertama indonesia ? ",
-            "pilihan" => ["Jokowi","Soekarno","Trump","Megawati"] 
+            "pilihan" => ["Jokowi","Soekarno","Trump","Sukmawati"] 
         ],
         [
             "id" => "2",
